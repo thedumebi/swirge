@@ -1,6 +1,8 @@
 #Swirge Back-End Assessment
 
 ---
+###Start
+run npm install to install the dependencies and then npm start
 
 ##Backend
 ###Project Flow
